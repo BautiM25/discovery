@@ -11,8 +11,8 @@
 	<groupId>ar.edu.unnoba.pdyc2026</groupId>
 	<artifactId>discovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>discovery</name>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
